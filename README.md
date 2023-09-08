@@ -9,11 +9,8 @@
 - **Database Technologies**: MongoDB
 - **Programming Profiles**: [LeetCode](https://leetcode.com/ruhani10/), [Geeksforgeeks](https://auth.geeksforgeeks.org/user/ruhanim6wzn)
 
-Web Technologies: Html,Css, js,react, express,node
+### 📫 How to Reach me:
 
-Database Technologies: MySQL , MongoDB
-
-Programming Profiles : CodeForces, Codechef , LeetCode, Geeksforgeeks, BinarySearch, HackerEarth
 
 <!--
 **RuhaniMakhija/RuhaniMakhija** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
