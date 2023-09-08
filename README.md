@@ -1,8 +1,8 @@
 ### Hi 👋, I'm Ruhani 
 
-🔭 I’m currently working on MERN Stack
-😄 Pronouns: She/Her
-⚡ Fun fact: I love playing Chess and solving puzzles
+- 🔭 I’m currently working on MERN Stack
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I love playing Chess and solving puzzles
 ### ⚙️ My skills include:
 Languages: C++,C, JavaScript, Python
 
