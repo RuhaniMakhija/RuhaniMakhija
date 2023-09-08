@@ -4,7 +4,7 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love playing Chess and solving puzzles
 ### ⚙️ My skills include:
-#### -Languages: C++,C, JavaScript, Python
+- **Languages**: C++,C, JavaScript, Python
 
 Web Technologies: Html,Css, js,react, express,node
 
