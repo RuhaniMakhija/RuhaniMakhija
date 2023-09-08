@@ -1,4 +1,4 @@
-### Hi 👋, I'm Ruhani 
+### Hi 👋, I'm Ruhani ![https://camo.githubusercontent.com/ff23f0d629cff95dde1f3e154c8d162a60155bc22d5dc79ceb4794fb6ec44419/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f50676e70475438744a7357664e61625338642f67697068792e676966]
 
 - 🔭 I’m currently working on MERN Stack
 - 😄 Pronouns: She/Her
