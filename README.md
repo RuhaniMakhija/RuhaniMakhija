@@ -7,7 +7,7 @@
 - **Languages**: Java, JavaScript, Python
 - **Web Technologies**: Html,Css, js,react, express,node
 - **Database Technologies**: MongoDB
-- **Programming Profiles**:[LeetCode](https://leetcode.com/ruhani10/)
+- **Programming Profiles**: [LeetCode](https://leetcode.com/ruhani10/), [Geeksforgeeks](https://auth.geeksforgeeks.org/user/ruhanim6wzn)
 
 Web Technologies: Html,Css, js,react, express,node
 
