@@ -10,7 +10,7 @@
 - **Programming Profiles**: [LeetCode](https://leetcode.com/ruhani10/), [Geeksforgeeks](https://auth.geeksforgeeks.org/user/ruhanim6wzn)
 
 ### 📫 How to Reach me:
-![likedin](https://camo.githubusercontent.com/1d801b8d8c5a1c423a1e7aac90d98e05b152df938baff951b05871c731336353/68747470733a2f2f696d672e69636f6e73382e636f6d2f636c6f7564732f3130302f3030303030302f6c696e6b6564696e2e706e67)
+![https://www.linkedin.com/feed/](https://camo.githubusercontent.com/1d801b8d8c5a1c423a1e7aac90d98e05b152df938baff951b05871c731336353/68747470733a2f2f696d672e69636f6e73382e636f6d2f636c6f7564732f3130302f3030303030302f6c696e6b6564696e2e706e67)(https://www.linkedin.com/feed/)
 
 <!--
 **RuhaniMakhija/RuhaniMakhija** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
