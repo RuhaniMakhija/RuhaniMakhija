@@ -5,8 +5,11 @@
 - ⚡ Fun fact: I love playing Chess and solving puzzles
 ### ⚙️ My skills include:
 - **Languages**: Java, JavaScript, Python
+  
 - **Web Technologies**: Html,Css, js,react, express,node
+  
 - **Database Technologies**: MongoDB
+  
 - **Programming Profiles**: [LeetCode](https://leetcode.com/ruhani10/), [Geeksforgeeks](https://auth.geeksforgeeks.org/user/ruhanim6wzn)
 
 ### 📫 How to Reach me:
